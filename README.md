@@ -1,6 +1,6 @@
 # Blog de Xavier Pigeon
 
-En construction...
+Un nouveau blog indépendant est en cours de construction... En attendant, mes articles sont toujours disponibles sur mes précédents blogs.
 
 Blogs précédents :
 - [Blog Medium](https://medium.com/@xavier.pigeon)
